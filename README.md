@@ -85,8 +85,8 @@ The `roast()` function will allow the player to roast a marshmallow. Each call t
 1. The fire must be going
 2. The player must have at least 1 marshmallow
 
-#### 5. The `sleep()` function
-The `sleep()` function will allow the player to sleep. The requirements for sleeping are as follows:
+#### 5. The `rest()` function
+The `rest()` function will allow the player to sleep. The requirements for sleeping are as follows:
 
 1. The fire must be not going
 2. The tent must be set up
